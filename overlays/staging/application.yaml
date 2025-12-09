@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/ronaldidro/kubernetes-helsinki
-    path: the_project/overlays/staging
+    path: overlays/staging
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
