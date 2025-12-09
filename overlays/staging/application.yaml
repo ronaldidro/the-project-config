@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/ronaldidro/kubernetes-helsinki
+    repoURL: https://github.com/ronaldidro/the-project-config
     path: overlays/staging
     targetRevision: HEAD
   destination:
